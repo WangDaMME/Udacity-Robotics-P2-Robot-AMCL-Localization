@@ -1,4 +1,4 @@
-# Udacity-Robotics-P2-Robot-AMCL-Localization
+# Udacity-Robotics-P3-Robot-AMCL-Localization
 Robot Localization using Adaptive MCL Method
 
 ## Overview
